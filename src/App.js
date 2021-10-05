@@ -4,8 +4,9 @@ import Clock from './clock';
 
 function App() {
   return (
-    <div className="App">
-         <Clock/>
+    <div>
+         <div className="text">DIGITAL CLOCK</div>
+         <Clock />
     </div>
   );
 }
