@@ -1,45 +1,40 @@
-.hour{
+.hour {
   color: red;
   text-align: center;
   background-color: black;
   font-family: monospace;
   font-size: 18em;
-
 }
-.minute{
+.minute {
   color: green;
   text-align: center;
   background-color: black;
   font-family: monospace;
   font-size: 18em;
-  
 }
-.seconds{
-  color:blue;
+.seconds {
+  color: blue;
   text-align: center;
   background-color: black;
   font-family: monospace;
   font-size: 18em;
- 
 }
-.App{
+.App {
   display: flex;
   align-items: center;
   color: blue;
   position: absolute;
-  top:50%;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   width: 1000px;
   height: 300px;
-  
 }
 
-.text{
+.text {
   color: white;
   font-size: 80px;
   text-align: center;
   font-family: cursive;
   padding-top: 100px;
-
 }
